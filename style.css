@@ -51,4 +51,26 @@ section.banner {
   text-align: center;
 }
 
+/* TOTM Section */
 
+.totm {
+  width: 1000px;
+  height: auto;
+  margin: 0 auto;
+  padding-top: 50px;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.tea-card img {
+  height: 200px;
+  width: 300px;
+  padding-bottom: 10px;
+}
+
+/* Locations Section */
