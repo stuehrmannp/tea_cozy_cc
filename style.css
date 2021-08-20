@@ -33,3 +33,22 @@ header li {
 }
 
 /* Banner Section */
+
+section.banner {
+  height: 700px;
+  width: 1200px;
+  background-image: url("./resources/img-mission-background.webp");
+  background-size: cover;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.banner-text {
+  width: 1200px;
+  background-color: black;
+  text-align: center;
+}
+
+
